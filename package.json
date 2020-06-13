@@ -1,0 +1,24 @@
+{
+    "name": "stick_ur_notes",
+    "version": "1.0.0",
+    "description": "",
+    "main": "scripts.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "sw-precache": "sw-precache"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/sibashish99/Stick_Ur_Notes"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/sibashish99/Stick_Ur_Notes/issues"
+    },
+    "homepage": "https://github.com/sibashish99/stick_Ur_Notes#readme",
+    "dependencies": {
+      "sw-precache": "^5.2.1"
+    }
+  }
+  
